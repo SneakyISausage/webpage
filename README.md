@@ -1,2 +1,4 @@
-# webpage
-development of my webpage
+# Webpage
+Taking babysteps here.
+
+The main idea is ...
