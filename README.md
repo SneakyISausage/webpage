@@ -1,4 +1,7 @@
 # Webpage
+
+MY SSD DOES NOT WORK ANYMORE, I GOT MYSELF A NEW ONE AND WILL BUILD IT IN AS SOON AS IT ARRIVES. UNTIL THEN SADLY MY PROJECT IS PAUSED.
+
 Clarification: Taking babysteps here. Which means, that I will have some issues solving some coding stuff and also take my time to finish the project. 
 After clearifying that, lets get to it:
 
